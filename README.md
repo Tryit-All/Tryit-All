@@ -38,7 +38,7 @@
         </li>
     </ul>
     </div>
-    <!-- <div>
+    <div>
         <h3 align="left">Languages and Tools:</h3>
         <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img
                     src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"
@@ -77,7 +77,7 @@
                     src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
                     height="40" /> </a>
         </p>
-    </div> -->
+    </div>
     <div>
         <h3>Languages:</h3>
         <p style="text-align: left;">
