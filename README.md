@@ -6,7 +6,7 @@
 
 <hr width="100%">
     
-<img  align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400" height="550">
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400">
 
 <div>
             <h3>Hi 👋 my name is Fathurrahman Dwi Koryanto 🔥</h3>
