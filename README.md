@@ -4,7 +4,8 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px"> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width=130px">
+<img align="right" width=10px height=10px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b>
+<img align="right" width=10px height=10px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  </p>
 
 <div align="left">
