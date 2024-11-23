@@ -17,7 +17,7 @@
     </a>
     <ul>
         <li>
-            🤗 I'm a newbie in Mobile 🥳
+            🤗 I'm a Software Engineer and contributing to frontend and backend for building mobile applications 🥳
         </li>
         <li>
             👉 I'm a man student 👨‍🎓
