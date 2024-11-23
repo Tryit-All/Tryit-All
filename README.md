@@ -5,7 +5,7 @@
 <div align="left">
 
 <hr width="100%">
-    <a a href="https://app.daily.dev/fathurrahmandwikoryanto"><img src="https://api.daily.dev/devcards/v2/seqNDBoaHcrVe3gXW3qGc.png?type=default&r=klw" width="400" alt="Fathurrahman Dwi Koryanto's Dev Card"/>
+    <a href="https://app.daily.dev/fathurrahmandwikoryanto"><img src="https://api.daily.dev/devcards/v2/seqNDBoaHcrVe3gXW3qGc.png?type=default&r=klw" width="400" alt="Fathurrahman Dwi Koryanto's Dev Card"/>
     <div>
             <h3>Hi 👋 my name is Thang 😎</h3>
     </a>
