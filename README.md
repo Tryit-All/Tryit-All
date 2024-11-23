@@ -7,7 +7,7 @@
 <hr width="100%">
     
 <img  align="right" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="400">
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+<!-- <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" /> -->
 
 <div>
             <h3>Hi 👋 my name is Fathurrahman Dwi Koryanto 🔥</h3>
