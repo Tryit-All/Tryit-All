@@ -13,25 +13,19 @@
     </a>
     <ul>
         <li>
-            🤗 I'm a newbie in Github 🥳
+            🤗 I'm a newbie in Mobile 🥳
         </li>
         <li>
             👉 I'm a man student 👨‍🎓
         </li>
         <li>
-            📝 And I'm studying English but I'm very lazy 😅
-        </li>
-        <li>
-            🏡 I'm living in a small city in <code>Việt Nam</code> 🇻🇳 👈 🏙️
-        </li>
-        <li>
-            ✍️ I want to study <code>code</code> and <code>how to write a program</code> 👀
+            🏡 I'm living in a small city in <code>Indonesia</code> 🇻🇳 👈 🏙️
         </li>
         <li>
             💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
         </li>
         <li>
-            💬 this is the first time I create a repository so I hope you will like my profile 👍
+            💬 ini adalah pertama kalinya saya mendesign profile github, jadi saya harap Anda akan menyukai profil saya 👍
         </li>
         <li>
             ❤️ thank you so much for reading it ❤️
