@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=40&pause=1000&color=DA00FF&background=9D56FF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Welcome+To+My+Github+Profile.)](https://git.io/typing-svg)  
 
  
-<p align="center"><img width=30px height=10px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b><img  width=10px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
+<p align="center"><img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b><img  width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /></p>
 
 <div align="left">
 
