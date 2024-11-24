@@ -63,7 +63,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Blander](https://img.shields.io/badge/-blander-05122A?style=flat&logo=blander)&nbsp;
+![Blander](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
