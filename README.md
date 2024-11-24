@@ -48,13 +48,24 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Laravel](https://img.shields.io/badge/-karavel-05122A?style=flat&logo=larevel)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Vercel](https://img.shields.io/badge/-vercel-05122A?style=flat&logo=vercel)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-05122A?style=flat&logo=sqlite)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Nginx](https://img.shields.io/badge/-nginx-05122A?style=flat&logo=nginx)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=figma)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
 
 <hr width="100%">
     <div align=center>
