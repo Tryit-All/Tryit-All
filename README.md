@@ -29,7 +29,7 @@
             💯 I'm very happy when you read my profile but I don't think my profile is professtion 🙄
         </li>
         <li>
-            💬 this is my first time designing a github profile, so I hope you will like my profile 👍
+            💬 this is my first time designing a github profile, so I hope you will  like my profile 👍
         </li>
         <li>
             ❤️ thank you so much for reading it ❤️
